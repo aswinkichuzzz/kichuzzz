@@ -42,5 +42,18 @@ void loop()
 ```
 ## day4
 
-## day5(/home/user/light 2023-05-09 12-44-16.png)
+## day5
+![NO IMAGE].(
+
+const int potpin = 0;
+
+void setup () {
+  Serial.begin(9600);
+}
+
+void loop() {
+  int potValue = analogRead(potValue);
+  Serial.println(potValue);
+  delay(100);
+}
 
