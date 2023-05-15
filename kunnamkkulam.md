@@ -43,7 +43,7 @@ void loop()
 ## day4
 
 ## day5
-![AND].(https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-15%2014-27-56.
+![AND](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-15%2014-27-56.png)
 
 const int potpin = 0;
 
