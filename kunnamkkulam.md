@@ -96,7 +96,7 @@ void loop() {
   delay(500);
 
   encender (0, 0, 1, 0, 0, 1, 0); 
-  delay(500
+  delay(500);
 
   encender (0, 0, 0, 0, 1, 1, 0); 
   delay(500);
