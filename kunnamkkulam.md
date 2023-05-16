@@ -119,3 +119,6 @@ void loop() {
   encender (0, 0, 0, 1, 1, 0, 0); 
   delay(500);
 } 
+
+## day6
+![3d]()
