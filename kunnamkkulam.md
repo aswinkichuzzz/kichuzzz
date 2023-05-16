@@ -74,7 +74,7 @@ void encender(int a, int b, int c, int d, int e, int f, int g)
 
 void setup() {
 
-  
+
 
   pinMode(2, OUTPUT);
   pinMode(3, OUTPUT);
@@ -121,4 +121,4 @@ void loop() {
 } 
 
 ## day6
-![3d]()
+![3d](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-16%2010-24-12.png)
