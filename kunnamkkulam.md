@@ -124,4 +124,6 @@ void loop() {
 ![3d](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-16%2010-24-12.png)
 
 ##DAY7
-![7 SEGMENT](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-18%2011-05-53.png)
+![7 SEGMENT](
+
+
