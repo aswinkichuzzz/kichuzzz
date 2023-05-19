@@ -223,6 +223,9 @@ void loop()
   delay(potvalue);
 } 
 
+**day8
+![rgb led](
+
 
 
 
