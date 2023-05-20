@@ -123,7 +123,7 @@ void loop() {
 ## day6
 ![3d](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-16%2010-24-12.png)
 
-##DAY7
+## DAY7
 ![7 SEGMENT](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-18%2011-35-39.png)
 const int potPin=A0;
 
@@ -223,10 +223,10 @@ void loop()
   delay(potvalue);
 } 
 
-**day8
+## day 9
 ![rgb led](https://github.com/aswinkichuzzz/kichuzzz/blob/main/kunnamkkulam.md)
 
-**day-9
+## day-10
 ![volt meter](https://github.com/aswinkichuzzz/kichuzzz/blob/main/Screenshot%20from%202023-05-20%2011-08-29.png)
 program
 ........
